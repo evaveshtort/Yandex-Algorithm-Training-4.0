@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Дейкстра", "Дейкстра\Дейкстра.pyproj", "{C74F1C12-B903-40A9-BEDE-D43735034E4F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Дейкстра с восстановлением пути", "Дейкстра с восстановлением пути\Дейкстра с восстановлением пути.pyproj", "{288135C4-4632-4971-89F9-A1EECB406E93}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Быстрый алгоритм Дейкстры", "Быстрый алгоритм Дейкстры\Быстрый алгоритм Дейкстры.pyproj", "{097F648E-8F13-46A6-B9AB-E05F5AFEE1DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Автобусы в Васюках", "Автобусы в Васюках\Автобусы в Васюках.pyproj", "{53748609-D6D6-464C-9271-29D4A0F88D19}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "На санях", "На санях\На санях.pyproj", "{D399D4BF-9437-4404-BA9E-B09EB9C7323A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74F1C12-B903-40A9-BEDE-D43735034E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74F1C12-B903-40A9-BEDE-D43735034E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288135C4-4632-4971-89F9-A1EECB406E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288135C4-4632-4971-89F9-A1EECB406E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097F648E-8F13-46A6-B9AB-E05F5AFEE1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097F648E-8F13-46A6-B9AB-E05F5AFEE1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53748609-D6D6-464C-9271-29D4A0F88D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53748609-D6D6-464C-9271-29D4A0F88D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D399D4BF-9437-4404-BA9E-B09EB9C7323A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D399D4BF-9437-4404-BA9E-B09EB9C7323A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3D7DD5-3AF2-4632-8A7D-9D599BBEE8A3}
+	EndGlobalSection
+EndGlobal

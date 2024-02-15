@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Не минимум на отрезке", "..\Разминка\Не минимум на отрезке\Не минимум на отрезке.pyproj", "{117460B3-2C7E-422B-9A5B-99F862D26EEF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Сложить две дроби", "..\Разминка\Сложить две дроби\Сложить две дроби.pyproj", "{25F41B95-1B14-4869-9CBF-3ACA06DEFA28}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Путешествие по Москве", "..\Разминка\Путешествие по Москве\Путешествие по Москве.pyproj", "{3F6FD459-08DA-4351-97C5-BD2FA80ADF50}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Анаграмма", "..\Разминка\Анаграмма\Анаграмма.pyproj", "{E63A74EB-8A2B-4463-8045-0BC70A9B0E2E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Средний уровень", "..\Разминка\Средний уровень\Средний уровень.pyproj", "{82216C7D-EF5A-4272-845B-C4CEA5CA3160}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Лифт", "..\Разминка\Лифт\Лифт.pyproj", "{9B1363FA-12E4-4E04-98E8-0FB6A6790A8D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Кролик учит геометрию", "..\Разминка\Кролик учит геометрию\Кролик учит геометрию.pyproj", "{C1A8D986-D095-44BB-A39F-344C80FE0AE5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Результаты контеста", "..\Разминка\Результаты контеста\Результаты контеста.pyproj", "{CD938630-1561-4031-8B84-CBBE2798A3AF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Правильная скобочная последовательность", "..\Разминка\Правильная скобочная последовательность\Правильная скобочная последовательность.pyproj", "{06B3B6D2-2252-4FEE-97A4-AC4BA36872E8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Групповой проект", "..\Разминка\Групповой проект\Групповой проект.pyproj", "{C2309455-17B2-4301-B1DB-55A8ACEF4EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117460B3-2C7E-422B-9A5B-99F862D26EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117460B3-2C7E-422B-9A5B-99F862D26EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F41B95-1B14-4869-9CBF-3ACA06DEFA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F41B95-1B14-4869-9CBF-3ACA06DEFA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6FD459-08DA-4351-97C5-BD2FA80ADF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6FD459-08DA-4351-97C5-BD2FA80ADF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63A74EB-8A2B-4463-8045-0BC70A9B0E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63A74EB-8A2B-4463-8045-0BC70A9B0E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82216C7D-EF5A-4272-845B-C4CEA5CA3160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82216C7D-EF5A-4272-845B-C4CEA5CA3160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1363FA-12E4-4E04-98E8-0FB6A6790A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1363FA-12E4-4E04-98E8-0FB6A6790A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A8D986-D095-44BB-A39F-344C80FE0AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A8D986-D095-44BB-A39F-344C80FE0AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD938630-1561-4031-8B84-CBBE2798A3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD938630-1561-4031-8B84-CBBE2798A3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B3B6D2-2252-4FEE-97A4-AC4BA36872E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B3B6D2-2252-4FEE-97A4-AC4BA36872E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2309455-17B2-4301-B1DB-55A8ACEF4EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2309455-17B2-4301-B1DB-55A8ACEF4EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9126A3-23BC-4264-9E37-AFF3451395F9}
+	EndGlobalSection
+EndGlobal

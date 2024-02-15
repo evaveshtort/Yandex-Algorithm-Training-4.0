@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Равенство подстрок", "Равенство подстрок\Равенство подстрок.pyproj", "{A068CD38-DD46-4966-B538-BE48DF4A6500}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Основание строки", "Основание строки\Основание строки.pyproj", "{FE987DFC-CF89-4C3C-91F4-928D4FDA9401}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Z-функция", "Z-функция\Z-функция.pyproj", "{20DCF882-4B94-4BD4-AD8A-6A2B82FFE05C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Кубики в зеркале", "Кубики в зеркале\Кубики в зеркале.pyproj", "{E210A219-D55D-4946-8B62-F2EB017D28B7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Подпалиндромы", "Подпалиндромы\Подпалиндромы.pyproj", "{80267C97-9952-476F-9F3B-D2D17F62890E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A068CD38-DD46-4966-B538-BE48DF4A6500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A068CD38-DD46-4966-B538-BE48DF4A6500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE987DFC-CF89-4C3C-91F4-928D4FDA9401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE987DFC-CF89-4C3C-91F4-928D4FDA9401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DCF882-4B94-4BD4-AD8A-6A2B82FFE05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DCF882-4B94-4BD4-AD8A-6A2B82FFE05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E210A219-D55D-4946-8B62-F2EB017D28B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E210A219-D55D-4946-8B62-F2EB017D28B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80267C97-9952-476F-9F3B-D2D17F62890E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80267C97-9952-476F-9F3B-D2D17F62890E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAE9BF3-8C55-40CF-853D-18E7959517BB}
+	EndGlobalSection
+EndGlobal
